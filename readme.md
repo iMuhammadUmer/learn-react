@@ -9,3 +9,11 @@ By learning React, developers can create single-page applications (SPA) that off
 React allow component based architecture which provides reuseability.
 
 React works on virtual DOM improves performance & load time.
+
+## Prerequisites
+
+1. Download & install [NodeJS](https://nodejs.org/en) (Download latest verion with LTS). 
+2. Download & install [VS Code](https://code.visualstudio.com/download).
+3. Download & install [Git](https://git-scm.com/downloads).
+
+And some basics of programming.
